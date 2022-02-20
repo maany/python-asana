@@ -4,6 +4,7 @@ from . import (
     custom_field_settings,
     custom_fields,
     events,
+    goals,
     jobs,
     organization_exports,
     portfolios,
